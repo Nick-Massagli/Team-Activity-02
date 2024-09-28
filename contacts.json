@@ -1,0 +1,23 @@
+{
+    "contact": {
+        "firstName": "Alex",
+        "lastName": "Reisig",
+        "email": "areisig@yahoo.com",
+        "favoriteColor": "Purple",
+        "birthday": "08/18/01"
+    },
+    "contact2": {
+        "firstName": "Bryce",
+        "lastName": "Deiuri-Marangon",
+        "email": "bdm@hotmail.com",
+        "favoriteColor": "Blue",
+        "birthday": "11/20/00"
+    },
+    "contact3": {
+        "firstName": "Brian",
+        "lastName": "Viorato",
+        "email": "BrianJViorato@gmail.com",
+        "favoriteColor": "Red",
+        "birthday": "11/11/00"
+    }
+}
